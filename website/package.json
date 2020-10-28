@@ -112,6 +112,7 @@
     "meriyah": "^1.9.12",
     "parse5": "^6.0.0",
     "parse5-htmlparser2-tree-adapter": "^6.0.0",
+    "pb-parser": "^0.1.2",
     "php-parser": "^3.0.0",
     "postcss": "^7.0.27",
     "postcss-less": "^3.1.2",
